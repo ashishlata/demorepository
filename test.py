@@ -1,5 +1,6 @@
 a=12
 b=13
 c=a+b
+d=c
 print('this is my change code')
-print(c,'this is sum of a and b')
+print(d,'this is sum of a and b')
